@@ -1,6 +1,6 @@
 pkgbase = neovim-qt-git
 	pkgdesc = A Qt gui for Neovim (Neovim RPC and GUI using Qt5).
-	pkgver = 20150913.73299bc
+	pkgver = 20150922.311070f
 	pkgrel = 1
 	url = https://github.com/equalsraf/neovim-qt
 	arch = i686
