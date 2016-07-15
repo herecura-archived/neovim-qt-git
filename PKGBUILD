@@ -1,6 +1,6 @@
 # Maintainer: Aaron Abbott <aabmass at gmail dot com>
 pkgname=neovim-qt-git
-pkgver=20160703.5fef216
+pkgver=20160714.e257faf
 pkgrel=1
 pkgdesc="A Qt gui for Neovim (Neovim RPC and GUI using Qt5)."
 arch=('i686' 'x86_64')
